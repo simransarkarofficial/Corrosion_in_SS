@@ -7,52 +7,32 @@ This repository contains a literature review presentation on the use of grain bo
 
 🎯 **Objectives**
 
-Understand intergranular corrosion mechanisms in stainless steels
+- Understand intergranular corrosion mechanisms in stainless steels
 
-Study the role of grain boundary character (random vs CSL boundaries)
+- Study the role of grain boundary character (random vs CSL boundaries)
 
-Review thermomechanical processing routes for GBE
+- Review thermomechanical processing routes for GBE
 
-Analyze corrosion evaluation methods reported in literature
-
-🧠 **Topics Covered**
-
-Intergranular & transpassive corrosion
-
-CSL grain boundaries (Σ3, Σ9, Σ27)
-
-Grain Boundary Character Distribution (GBCD)
-
-Coriou corrosion test (mass-loss based)
-
-Percolation theory applied to corrosion pathways
+- Analyze corrosion evaluation methods reported in literature
 
 🛠 **Method**
 
-Literature review of peer-reviewed journal articles
+Literature review of peer-reviewed journal articles, Conceptual analysis of microstructure–corrosion relationships, No independent experimental work conducted
 
-Conceptual analysis of microstructure–corrosion relationships
-
-No independent experimental work conducted
-
-📈 **Key Takeaways**
-
-Random grain boundaries promote corrosion propagation
-
-Higher CSL fraction disrupts continuous corrosion paths
-
-GBE improves corrosion resistance even under transpassive conditions
 
 🏭 **Relevance**
 
 Applicable to:
 
-Corrosion mitigation in stainless steel components
+- Corrosion mitigation in stainless steel components
 
-Materials selection for aggressive environments
+- Materials selection for aggressive environments
 
-Refinery and process industry applications
+- Refinery and process industry applications
 
 📚 Reference
 
-Jin et al., ISIJ International (2010)
+Jin, W. Z., Kokawa, H., Wang, Z. J., Sato, Y. S., & Hara, N.
+Improvement of Transpassive Intergranular Corrosion Resistance of 304 Austenitic Stainless Steel by Thermomechanical Processing for Twin-Induced Grain Boundary Engineering.
+ISIJ International, 50(3), 476–481 (2010).
+https://doi.org/10.2355/isijinternational.50.476
