@@ -1,10 +1,10 @@
 
-Grain Boundary Engineering for Corrosion Resistance in 304 Stainless Steel
-📌 Overview
+**Grain Boundary Engineering for Corrosion Resistance in 304 Stainless Steel**
+📌 **Overview**
 
 This repository contains a literature review presentation on the use of grain boundary engineering (GBE) to improve intergranular and transpassive corrosion resistance in 304 austenitic stainless steel.
 
-🎯 Objectives
+🎯 **Objectives**
 
 Understand intergranular corrosion mechanisms in stainless steels
 
@@ -14,7 +14,7 @@ Review thermomechanical processing routes for GBE
 
 Analyze corrosion evaluation methods reported in literature
 
-🧠 Topics Covered
+🧠 **Topics Covered**
 
 Intergranular & transpassive corrosion
 
@@ -26,7 +26,7 @@ Coriou corrosion test (mass-loss based)
 
 Percolation theory applied to corrosion pathways
 
-🛠 Method
+🛠 **Method**
 
 Literature review of peer-reviewed journal articles
 
@@ -34,7 +34,7 @@ Conceptual analysis of microstructure–corrosion relationships
 
 No independent experimental work conducted
 
-📈 Key Takeaways
+📈 **Key Takeaways**
 
 Random grain boundaries promote corrosion propagation
 
@@ -42,7 +42,7 @@ Higher CSL fraction disrupts continuous corrosion paths
 
 GBE improves corrosion resistance even under transpassive conditions
 
-🏭 Relevance
+🏭 **Relevance**
 
 Applicable to:
 
